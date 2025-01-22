@@ -178,6 +178,11 @@ nav ul li a {
   padding: 50px 20px;
 }
 
+.sobre-infos-container #sobre-historia p{
+  color: black;
+  padding-inline: 70px;
+}
+
 .sobre-container {
   max-width: 1200px;
   margin: 0 auto;
